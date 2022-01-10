@@ -14,7 +14,7 @@ Link: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 ## Import and Visualization
 
-Using the JSON representation of earthquake data, a map was generated reflecting the magnitude of each earthquake by the size and depth by color. Earthquake with higher magnitudes appear larger, and earthquakes with greather depth appear darker in color. 
+Using the JSON representation of earthquake data, a map was generated reflecting the magnitude of each earthquake by the size and depth by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greather depth appear darker in color. 
 
 A second data set was used to illustrate the relationship between tectonic plates and seismic activity. 
 
