@@ -26,4 +26,8 @@ The final step in this project, included deploying the app to GitHub pages to ul
 
 ![Topographic Layer](images/TopographicLayer.jpg)
 
+
+
+
+
 ![Street Layer](images/StreetLayer.jpg)
