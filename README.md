@@ -23,3 +23,7 @@ The final visualization step included both a legend to discern earthquake depth 
 ---
 
 The final step in this project, included deploying the app to GitHub pages to ultimately host the Earthquake Map website.
+
+![Topographic Layer](images/TopographicLayer.jpg)
+
+![Street Layer](images/StreetLayer.jpg)
